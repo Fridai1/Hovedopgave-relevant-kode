@@ -1,0 +1,1 @@
+Alt kode her i, er kode der er afhængig af eksterne biblioteker og vil ikke kunne eksekveres, i dets nuværende tilstand.
