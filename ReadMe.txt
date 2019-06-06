@@ -1,0 +1,1 @@
+Alt kode i de givne .cs filer vil ikke kunne blive eksekveret uden hjælp fra eksterne biblioteker og spilmotoren Unity. 
